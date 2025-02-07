@@ -39,7 +39,7 @@ class App extends Component {
       },
 
       education: {
-        title: "Education"
+        title: "Education",
         school1: "New Jersey Institute of Technology",
         school2: "New Jersey Institute of Technology",
         degree1: "BS in Computer Science",
